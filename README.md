@@ -3,7 +3,7 @@ EmoVibe: Personalized Emotion-Driven Music Recommendations
 
 Project Leader: Narayan Raval
 
-Project Member: Benjamin Claudius, Mounika katta
+Project Member: Benjamin Claudius, Likhitha Potluri, Laxmi Naga Kavya Kolipaka
 
 # Aim: 
 The aim of this project is to develop an intelligent AI-driven music companion, EmoVibe, capable of curating and playing music in real-time based on the user's emotions and situational context. This system will leverage advanced emotion recognition and contextual understanding techniques to accurately identify a user's emotions, whether expressed through text or voice, and cater to their current situation, such as driving or relaxing. By analyzing emotional cues and situational information, EmoVibe will provide a seamless music experience that aligns with the user's emotional state and activities, enhancing their mood and overall well-being.
