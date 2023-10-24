@@ -14,16 +14,21 @@ Introducing " EmoVibe " – your ultimate AI music buddy. It tunes in to how you
 
 # Visualization:
 
+
 1. Data spread:
+   
    ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/937c918b-0d74-4378-a75f-f055f8e74215)
 
 2. Data plot:
+   
    ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/7ec6d428-dccd-4c61-8d2d-9d658c4d6837)
 
 3. Histogram Equlizer:
+   
    ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/7fbbf9d1-6c62-4d0e-9284-2ffd07ef85e4)
 
 4. Normalization using the SMOTE Model:
+   
    ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/28aa71c1-2691-4549-b72f-93f78beb59e6)
 
 
