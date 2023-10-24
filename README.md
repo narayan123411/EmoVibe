@@ -25,7 +25,8 @@ Introducing " EmoVibe " – your ultimate AI music buddy. It tunes in to how you
 
 3. Histogram Equlizer:
    
-   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/7fbbf9d1-6c62-4d0e-9284-2ffd07ef85e4)
+   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/9ebc83b0-aced-4938-92bc-3bd6e726bab9)
+
 
 4. Normalization using the SMOTE Model:
    
