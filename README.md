@@ -17,7 +17,7 @@ To use the system, provide an image of a person's face. The system will predict 
 
 ## Data Pre Processing:
 
-1. Data Eqilizers:
+1. Data Equalizers:
 
    <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/a5afacd2-721a-4ff9-94dd-56fc02306445" style="width: 70%; height: auto;">
    
