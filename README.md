@@ -1,46 +1,48 @@
-# EmoVibe
-EmoVibe: Personalized Emotion-Driven Music Recommendations
+# Emotion-Based Music Recommendation System
 
-Project Leader: Narayan Raval
+## Description
+This project utilizes a sophisticated Convolutional Neural Network, specifically the ResNet model, to analyze facial expressions and predict emotions with a 95% accuracy rate. Based on the emotion detected, the system recommends a selection of music tracks that align with the user's current mood.
 
-Project Member: Benjamin Claudius, Likhitha Potluri, Laxmi Naga Kavya Kolipaka
+## Model Details
+We've employed the ResNet model due to its deep residual learning framework which enables the training of deeper networks by leveraging skip connections or shortcuts to jump over some layers. 
 
-# Aim: 
-The aim of this project is to develop an intelligent AI-driven music companion, EmoVibe, capable of curating and playing music in real-time based on the user's emotions and situational context. This system will leverage advanced emotion recognition and contextual understanding techniques to accurately identify a user's emotions, whether expressed through text or voice, and cater to their current situation, such as driving or relaxing. By analyzing emotional cues and situational information, EmoVibe will provide a seamless music experience that aligns with the user's emotional state and activities, enhancing their mood and overall well-being.
+## Requirements
+Please refer to the `requirements.sh` script to install all necessary dependencies.
 
-# Introduction: 
+## Setup Instructions
+Clone the repository and navigate to the project directory. Run the `requirements.sh` script to set up your environment.
 
-Introducing " EmoVibe " – your ultimate AI music buddy. It tunes in to how you feel and what you're up to, picking just the right music for you. Whether you're a bit down or on a road trip, EmoVibe picks music that fits your vibe. This clever friend is all about boosting your mood and changing how music makes you feel. It's like having your own personal DJ that understands you perfectly, making your music experience all about you.
+## Usage
+To use the system, provide an image of a person's face. The system will predict the emotion and suggest music accordingly.
 
-# Visualization:
+## Data Pre Processing:
 
+1. Data Eqilizers:
 
-1. Data spread:
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/a5afacd2-721a-4ff9-94dd-56fc02306445)
+
+2. SMOTE Model to Re-Sample:
    
-   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/937c918b-0d74-4378-a75f-f055f8e74215)
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/4577bd18-2e99-4833-810c-4dbe1bf00776)
 
-2. Data plot:
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/fac9be03-8863-47d4-b208-adf3325552c1)
+
    
-   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/7ec6d428-dccd-4c61-8d2d-9d658c4d6837)
+3. Model Performance:
 
-3. Histogram Equlizer:
-   
-   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/9ebc83b0-aced-4938-92bc-3bd6e726bab9)
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/cae42dde-87b6-4575-ac8c-1fcc19439b61)
+ 
+
+## Output
+The output is a graphical interface displaying the predicted emotion and a list of music recommendations. Below are examples of the system's output:
+
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/1d3754e9-a171-4921-8458-f7f7b1880828)
+
+![image](https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/170b253b-b24e-426f-8047-d22ab3caf30f)
 
 
-4. Normalization using the SMOTE Model:
-   
-   ![image](https://github.com/narayan123411/EmoVibe/assets/53684708/28aa71c1-2691-4549-b72f-93f78beb59e6)
+## Conclusion
+Our testing concludes with a 95% accuracy in emotion prediction using the ResNet model. The system effectively maps emotions to music choices, providing an innovative and personalized user experience.
 
-
-
-# Conclusion:
-
-An innovation in applying AI to personalize music encounters is the Emotion-Driven Music Companion project. The technology recommends music that strongly connects by automatically analyzing emotions and context and pairing them with user choices. Each user has a distinctive and captivating musical journey because of the seamless integration of sentiment analysis, contextual awareness, and genre choices. The potential for this initiative to completely transform how we interact with music as technology develops is limitless.
-
-# Future Work:
-
-•	Fine-tuned emotion Recognition: Continuously refining emotion recognition models for more precise results.
-•	Global Reach: Expanding language and cultural support to cater to diverse audiences.
-•	Real-Time Adaptation: Integrating real-time data for immediate context-based recommendations.
-•	Learning and Feedback: Incorporating machine learning to learn from user interactions and enhance suggestions.
+## Acknowledgments
+We would like to thank all the contributors to the ResNet architecture and PyTorch community for providing the tools that facilitated the development of this project.
