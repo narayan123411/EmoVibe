@@ -19,28 +19,29 @@ To use the system, provide an image of a person's face. The system will predict 
 
 1. Data Eqilizers:
 
-   <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/a5afacd2-721a-4ff9-94dd-56fc02306445" style="width: 50%; height: auto;">
+   <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/a5afacd2-721a-4ff9-94dd-56fc02306445" style="width: 70%; height: auto;">
    
 
 2. SMOTE Model to Re-Sample:
    
 <p float="left">
-  <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/4577bd18-2e99-4833-810c-4dbe1bf00776" width="300"/>
-  <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/fac9be03-8863-47d4-b208-adf3325552c1" width="300"/> 
+  <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/4577bd18-2e99-4833-810c-4dbe1bf00776" width="380"/>
+  <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/fac9be03-8863-47d4-b208-adf3325552c1" width="380"/> 
 </p>
 
    
 3. Model Performance:
 
- <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/cae42dde-87b6-4575-ac8c-1fcc19439b61" style="width: 50%; height: auto;">
+ <img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/cae42dde-87b6-4575-ac8c-1fcc19439b61" style="width: 70%; height: auto;">
  
 
 ## Output
 The output is a graphical interface displaying the predicted emotion and a list of music recommendations. Below are examples of the system's output:
 
-<img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/1d3754e9-a171-4921-8458-f7f7b1880828" style="width: 50%; height: auto;">
+<img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/1d3754e9-a171-4921-8458-f7f7b1880828" style="width: 70%; height: auto;">
 
-<img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/170b253b-b24e-426f-8047-d22ab3caf30f" style="width: 50%; height: auto;">
+
+<img src="https://github.com/narayan123411/Emotion-Driven-Music-Recommendations/assets/53684708/170b253b-b24e-426f-8047-d22ab3caf30f" style="width: 70%; height: auto;">
 
 ## Conclusion
 Our testing concludes with a 95% accuracy in emotion prediction using the ResNet model. The system effectively maps emotions to music choices, providing an innovative and personalized user experience.
